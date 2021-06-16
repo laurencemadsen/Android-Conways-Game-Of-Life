@@ -1,5 +1,5 @@
 # Android-Conways-Game-Of-Life
-Implementation of Conway's Game of Life for Android done by myself and @laurencemadsen
+Implementation of Conway's Game of Life for Android done by myself and @ElDeivis
 
 ![](https://i.imgur.com/eluaOCD.png)
 
